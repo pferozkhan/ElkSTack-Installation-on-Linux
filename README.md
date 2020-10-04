@@ -1,2 +1,2 @@
-# ElkSTack-Installation-on-Linux
-ElkStack Installation on Linux
+# ElkSTack-Installation-on-Linux with Kibana Cluster
+ElkStack Installation on Linux with Kibana Cluster
